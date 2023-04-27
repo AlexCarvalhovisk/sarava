@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T23:19:02.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3cX2wd38c1mYrdb1u0by" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T23:20:31.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d6eTcqxEgPvMx_1wAEfQ" version="21.2.3" type="github">
   <diagram name="Página-1" id="OhmNyan8lqFhYJJfdhWz">
     <mxGraphModel dx="1654" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kekUIf39OU5UKxyD_4K4-118" value="Contatar usuários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
+        <mxCell id="kekUIf39OU5UKxyD_4K4-118" value="Contatar usuários do App" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
           <mxGeometry x="457.5" y="370" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-2" target="kekUIf39OU5UKxyD_4K4-5">
