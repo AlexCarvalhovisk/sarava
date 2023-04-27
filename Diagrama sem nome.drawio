@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T23:08:00.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oErcTHyv5RoIn4a9W3H5" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T23:19:02.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3cX2wd38c1mYrdb1u0by" version="21.2.3" type="github">
   <diagram name="Página-1" id="OhmNyan8lqFhYJJfdhWz">
     <mxGraphModel dx="1654" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-5" value="Fazer login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
-          <mxGeometry x="90" y="150" width="80" height="50" as="geometry" />
+          <mxGeometry x="90" y="140" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="kekUIf39OU5UKxyD_4K4-1" source="kekUIf39OU5UKxyD_4K4-23" target="kekUIf39OU5UKxyD_4K4-5">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-69" value="Se cadastrar em uma casa de Santo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
-          <mxGeometry x="380" y="80" width="130" height="60" as="geometry" />
+          <mxGeometry x="350" y="90" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kekUIf39OU5UKxyD_4K4-1" source="kekUIf39OU5UKxyD_4K4-56" target="kekUIf39OU5UKxyD_4K4-59">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-90" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
-          <mxGeometry x="60.001713764866054" y="350.0040577341541" as="geometry">
+          <mxGeometry x="40.001713764866054" y="350.0040577341541" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -94,12 +94,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-92" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-30;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
-          <mxGeometry x="350.00171376486605" y="90.00405773415412" as="geometry">
+          <mxGeometry x="334.00171376486605" y="100.00405773415412" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-93" value="Manter filho de Santo na casa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
-          <mxGeometry x="237.5" y="110" width="125" height="60" as="geometry" />
+          <mxGeometry x="209" y="110" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-95" value="Cadastrar perfil" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;shadow=0;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
           <mxGeometry x="180" y="270" width="80" height="50" as="geometry" />
@@ -118,7 +118,7 @@
         <mxCell id="kekUIf39OU5UKxyD_4K4-102" value="Qualificar filho de Santo na casa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
           <mxGeometry x="235" y="330" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kekUIf39OU5UKxyD_4K4-104" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-25;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
+        <mxCell id="kekUIf39OU5UKxyD_4K4-104" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=333;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
           <mxGeometry x="450.00171376486605" y="280.0040577341541" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
@@ -145,10 +145,18 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kekUIf39OU5UKxyD_4K4-113" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
+        <mxCell id="kekUIf39OU5UKxyD_4K4-113" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
           <mxGeometry x="540.001713764866" y="140.00405773415412" as="geometry">
+            <mxPoint x="-14.317629680023565" y="7.869914389929102" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kekUIf39OU5UKxyD_4K4-117" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="kekUIf39OU5UKxyD_4K4-1">
+          <mxGeometry x="520.001713764866" y="110.00405773415412" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kekUIf39OU5UKxyD_4K4-118" value="Contatar usuários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kekUIf39OU5UKxyD_4K4-1">
+          <mxGeometry x="457.5" y="370" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-2" target="kekUIf39OU5UKxyD_4K4-5">
           <mxGeometry relative="1" as="geometry" />
@@ -196,6 +204,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-112" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-4" target="kekUIf39OU5UKxyD_4K4-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kekUIf39OU5UKxyD_4K4-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;curved=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-4" target="kekUIf39OU5UKxyD_4K4-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="270" />
+              <mxPoint x="680" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kekUIf39OU5UKxyD_4K4-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-4" target="kekUIf39OU5UKxyD_4K4-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kekUIf39OU5UKxyD_4K4-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kekUIf39OU5UKxyD_4K4-4" target="kekUIf39OU5UKxyD_4K4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kekUIf39OU5UKxyD_4K4-4" value="Babalorixá/Yalorixá" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
