@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T21:11:21.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="R452RvCP20PJWRriILNi" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T21:12:36.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fbDwps-B8mwHDDx0hvJk" version="21.2.7" type="github">
   <diagram name="Página-1" id="QxnHx__wZrE5UsQH2TkZ">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VymSgot9QLsFwOsiQC4_-53" value="Autorizará vinculo de filhos de Santo a Casa." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="177.25" width="160" height="80" as="geometry" />
+          <mxGeometry x="400" y="164.5" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VymSgot9QLsFwOsiQC4_-60" value="Deletará vinculo de filhos de Santo e Cliente da Casa." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="265" width="160" height="80" as="geometry" />
