@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T20:47:26.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MciXt6tVwVXXhoLKQDw-" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T20:48:47.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yVVDKWRPaiUPMK8tdViR" version="21.2.7" type="github">
   <diagram name="Página-1" id="lVMmQmg_A-L9ifkmrl34">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,13 +55,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QjfynNjf7NyK2TKp_Ida-17" value="Pesquisa endereço de casa de Santo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="130" height="70" as="geometry" />
+          <mxGeometry x="210" y="201" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QjfynNjf7NyK2TKp_Ida-18" value="Pesquisa endereço Babá/Yá de Santo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QjfynNjf7NyK2TKp_Ida-20" value="Enxergará dados da casa, fotos, quantidade de filhos, clientes e infos.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="80" width="170" height="90" as="geometry" />
+          <mxGeometry x="260" y="76" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QjfynNjf7NyK2TKp_Ida-25" value="Aplicativo Saravá" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="380.5" y="50" width="113" height="26" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="407" y="234.5" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="QjfynNjf7NyK2TKp_Ida-55" value="Incluid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="180" width="60" height="21" as="geometry" />
+          <mxGeometry x="280" y="170" width="60" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
