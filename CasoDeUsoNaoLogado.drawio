@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T09:55:34.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.3" etag="LDynMcDVRlceZ5AXPHyD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T10:24:08.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ytRj7EUcNRb1LyKjhSZs" version="21.2.3" type="github">
   <diagram name="Página-1" id="bz5WGCzRqNT1tHtvnFi7">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KYDlZVvDZqPjKzj310zI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="40" width="446" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-3" target="KYDlZVvDZqPjKzj310zI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-3" target="KYDlZVvDZqPjKzj310zI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-3" target="KYDlZVvDZqPjKzj310zI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-3" value="Usuário não logado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-4" target="KYDlZVvDZqPjKzj310zI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-4" value="Casa de Santo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-5" target="KYDlZVvDZqPjKzj310zI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-5" value="Babá/Yá" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="423.13" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-8" value="Usuário acessa o app Saravá" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-13" value="Usuário visualiza endereço de casa de Santo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-14" value="Usuário visualiza Babá/Yá de Santo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-17" target="KYDlZVvDZqPjKzj310zI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-17" value="Casa de Santo divulga dados da casa, fotos, quantidade de filhos, clientes e infos.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="106.25" width="150" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-23" value="Extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.788;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="KYDlZVvDZqPjKzj310zI-24" target="KYDlZVvDZqPjKzj310zI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-24" value="Babá/Yá de Santo divulga, fotos, quantidade de clientes e infos.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="406.25" width="160" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-27" value="Extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="406.25" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDlZVvDZqPjKzj310zI-29" value="Aplicativo Saravá" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="50" width="113" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
